@@ -87,3 +87,22 @@ This analysis illustrates how enterprise value changes under different valuation
 ## Disclaimer
 
 This model was created for educational and portfolio purposes only and should not be considered investment advice.
+---
+
+# Model Preview
+
+## Assumptions
+
+![Assumptions](Screenshots/Assumptions.png)
+
+## Forecasts
+
+![Forecasts](Screenshots/Forecasts.png)
+
+## Valuation
+
+![Valuation](Screenshots/Valuation.png)
+
+## Sensitivity Analysis
+
+![Sensitivity Analysis](Screenshots/Sensitivity.png)
