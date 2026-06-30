@@ -91,18 +91,20 @@ This model was created for educational and portfolio purposes only and should no
 
 # Model Preview
 
+This project is organized into four worksheets: **Assumptions, Forecasts, Valuation, and Sensitivity Analysis**.
+
 ## Assumptions
 
-![Assumptions](Screenshots/Assumptions.png)
+![Assumptions](Screenshots/01_Assumptions.png)
 
 ## Forecasts
 
-![Forecasts](Screenshots/Forecasts.png)
+![Forecasts](Screenshots/02_Forecasts.png)
 
 ## Valuation
 
-![Valuation](Screenshots/Valuation.png)
+![Valuation](Screenshots/03_Valuation.png)
 
 ## Sensitivity Analysis
 
-![Sensitivity Analysis](Screenshots/Sensitivity.png)
+![Sensitivity Analysis](Screenshots/04_Sensitivity_Analysis.png)
