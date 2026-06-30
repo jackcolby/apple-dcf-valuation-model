@@ -88,23 +88,18 @@ This analysis illustrates how enterprise value changes under different valuation
 
 This model was created for educational and portfolio purposes only and should not be considered investment advice.
 ---
-
-# Model Preview
-
-This project is organized into four worksheets: **Assumptions, Forecasts, Valuation, and Sensitivity Analysis**.
-
 ## Assumptions
 
-![Assumptions](Screenshots/01_Assumptions.png)
+![Assumptions](Images/Assumptions.png)
 
 ## Forecasts
 
-![Forecasts](Screenshots/02_Forecasts.png)
+![Forecasts](Images/Forecasts.png)
 
 ## Valuation
 
-![Valuation](Screenshots/03_Valuation.png)
+![Valuation](Images/Valuation.png)
 
 ## Sensitivity Analysis
 
-![Sensitivity Analysis](Screenshots/04_Sensitivity_Analysis.png)
+![Sensitivity Analysis](Images/Sensitivity.png)
